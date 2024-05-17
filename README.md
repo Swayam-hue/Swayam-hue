@@ -19,10 +19,3 @@ Just another friendly GitHub user exploring the realms of web technologies, mobi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Swayam-hue&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam-hue&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Swayam-hue&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
