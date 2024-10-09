@@ -1,6 +1,7 @@
 # 💫 About Me:
 Just another friendly GitHub user : )
-
+## Hacktoberfest 2024 
+[![An image of @swayamhue's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swayamhue)](https://holopin.io/@swayamhue)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swayam16/) 
