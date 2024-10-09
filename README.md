@@ -1,4 +1,4 @@
-## Hacktoberfest'24 
+## ![Hacktoberfest 2024](https://hacktoberfest.com/_next/static/media/opengraph.da4e7e30.png) Hacktoberfest'24
 [![An image of @swayamhue's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swayamhue)](https://holopin.io/@swayamhue)
 
 # 💫 About Me:
